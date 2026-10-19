@@ -1,4 +1,4 @@
-# High-Precision Credit Card Fraud Detection Pipeline
+# High_Precision_Credit_Card_Fraud_Detection_Model
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -50,8 +50,7 @@ Delivered a high calibre fraud detection system optimized for precision that rat
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/DavidFinTech/Precision-Optimized-Credit-Card-Fraud-Detection-Pipeline.git](https://github.com/DavidFinTech/Precision-Optimized-Credit-Card-Fraud-Detection-Pipeline.git)
-   cd Precision-Optimized-Credit-Card-Fraud-Detection-Pipeline
+   git clone [https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model.git](https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model.git)
 
 
 
