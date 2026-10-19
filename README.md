@@ -6,7 +6,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### Problem Statement
-Banks and other financial institutions process millions of transactions everyday, where lawful purchases outnumber fraudulent ones by a ratio of 99 to 1. Because of this serious imbalance in data, standard security models either fail to detect sophisticated scammers or generate excessive false alarms. These false positives block valid transactions, leading to frustration among users, increased customer service overhead, and losses in revenue.
+Banks and other financial institutions process millions of transactions every day, most of which are legitimate. In this dataset, fraudulent transactions account for only 0.17% of the total.
+
+This imbalance in data can make it difficult for models to detect fraud while keeping false alarms low. These false alarms can block valid transactions, leading to client frustration, increased customer service costs, and lost revenue.
 
 ### Dataset & Class Imbalance
 The dataset used is sourced from Kaggle's [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). 
