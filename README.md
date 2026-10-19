@@ -37,14 +37,12 @@ Delivered a high calibre fraud detection system optimized for precision that rat
 <img width="548" height="257" alt="Screenshot 2026-10-10 at 12 57 41 AM" src="https://github.com/user-attachments/assets/4817cd43-83f5-43d4-addf-a4b2863c8dc7" />
 
 ## 🛠️ Tech Stack 📚
-
 * **Language:** Python 3.8+
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Machine Learning & Preprocessing:** Scikit-Learn (`StandardScaler`, `RandomForestClassifier`), Imbalanced-Learn (`SMOTE`)
 * **Data Visualization:** Matplotlib, Seaborn
 
 ## Installation 🚀
-
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model.git](https://github.com/DavidFinTech/High_Precision_Credit_Card_Fraud_Detection_Model.git)
