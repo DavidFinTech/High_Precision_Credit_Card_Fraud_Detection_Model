@@ -1,4 +1,4 @@
-# High Precision Credit Card Fraud Detection Model
+# High-Precision Credit Card Fraud Detection Model
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
