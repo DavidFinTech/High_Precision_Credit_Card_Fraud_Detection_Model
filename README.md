@@ -33,8 +33,8 @@ Implemented SMOTE (Synthetic Minority Over-sampling Technique) to generate reali
 Employed a ‘Random Forest Classifier’ 
 to evaluate transactions using hundreds of decision trees, reducing that way the bias and instability associated with single-algorithm models like logistic regression.
 
-### End Result & Business Impact:
-Delivered a high calibre fraud detection system optimized for precision that rather than relying on default settings, displays its confidence percentages using predict_proba. I manually tuned the decision threshold by requiring a strong algorithmic consensus (75%+) before triggering a fraud alert, consequently the pipeline drastically reduces false positive warnings. This solution effectively captures malicious transfers while ensuring that legitimate customers experience zero friction when making their day-to-day operations.
+### Business Result & Tradeoffs:
+Delivered a high calibre fraud detection system optimized for precision (from 88% to 92%) that instead of relying on the 50%+ default threshold, requires a strong algorithmic consensus (75%+) to trigger a fraud alert. Consequently, the pipeline drastically reduces false positive warnings. Whereas the solution sacrifices a bit of recall, which went from 86% to 82%, it effectively captures malicious transfers while ensuring that legitimate customers experience zero friction when making their day-to-day operations; the model displays its confidence percentages using predict_proba().
 
 <img width="548" height="257" alt="Screenshot 2026-10-10 at 12 57 41 AM" src="https://github.com/user-attachments/assets/4817cd43-83f5-43d4-addf-a4b2863c8dc7" />
 
