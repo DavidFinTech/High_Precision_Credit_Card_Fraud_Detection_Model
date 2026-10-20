@@ -3,7 +3,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### Problem Statement
 Banks and other financial institutions process millions of transactions every day, most of which are legitimate. In this dataset, fraudulent transactions account for only 0.17% of the total.
