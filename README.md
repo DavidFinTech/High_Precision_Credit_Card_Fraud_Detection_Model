@@ -55,7 +55,7 @@ Delivered a high calibre fraud detection system optimized for precision (from 88
     ```
 3. **Install the required dependencies:**
     ```bash
-    pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn jupyter
+    python -m pip install -r requirements.txt
     ```
 4. **Open Credit Card Fraud Project.ipynb in Jupyter Notebook or PyCharm and run all cells.**
 
