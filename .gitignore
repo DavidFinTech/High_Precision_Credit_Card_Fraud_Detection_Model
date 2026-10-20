@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local PyCharm settings
+.idea/
+
+# Local R command history
+.Rhistory
